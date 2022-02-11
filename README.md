@@ -5,7 +5,7 @@
 
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<h3 align="center">A passionate full-stack developer from India. I like to challange myself to discover new boundries.If you find anything of value in my projects or for suggesting some improvemnts, please give a shout out. I am currently learning React. Other than coding I also like reading and cooking</h3>
+<h3 align="center">A passionate full-stack developer from India. I like to challenge myself to discover new boundaries. If you find anything of value in my projects or for suggesting some improvements, please give a shout out. I am currently learning React. Other than coding I also like reading and cooking.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaprasad03cvcmsd&label=Profile%20views&color=0e75b6&style=flat" alt="adityaprasad03cvcmsd" /> </p>
