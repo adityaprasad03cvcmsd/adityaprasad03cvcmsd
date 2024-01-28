@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaprasad03cvcmsd&label=Profile%20views&color=0e75b6&style=flat" alt="adityaprasad03cvcmsd" /> </p>
 
-- 💬 Ask me about **javaScript, C, C++, MongoDB, NodeJS, ExpressJS, mongoose**
+- 💬 Ask me about **javaScript, C, C++, MongoDB, NodeJS, ExpressJS, mongoose, java, springboot, mySQL, springMVC, myBatis, micronaut**
 
 - 📫 How to reach me **adityaprasad003@gmail.com**
 
