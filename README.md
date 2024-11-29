@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adityaprasad003@gmail.com**
 
-- 📫 portfolio: **https://adityaprasad-portfolio.herokuapp.com/**
+- 📫 portfolio: **https://adityaprasad-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
